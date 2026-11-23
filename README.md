@@ -1,6 +1,7 @@
 # SALES ANALYSIS FOR BLAIRLYTICS COMPANY
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Limitations](#limitations)
 
 ## Project overview
 This project presents an end-to-end sales data analysis for **Blairlytics Company**. The goal is to evaluate historical sales performance, uncover key revenue drivers, and identify seasonal buying trends to support data-driven business and inventory decisions.
