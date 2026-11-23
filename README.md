@@ -6,6 +6,7 @@
 ## Project overview
 This project presents an end-to-end sales data analysis for **Blairlytics Company**. The goal is to evaluate historical sales performance, uncover key revenue drivers, and identify seasonal buying trends to support data-driven business and inventory decisions.
 
+
 ### Key Objectives
 * **Revenue & Growth Tracking:** Analyze monthly and quarterly sales trends to measure overall business growth.
 * **Product Performance:** Identify top-selling products and categories alongside their profit margins.
@@ -85,6 +86,15 @@ While this analysis provides clear insights into historical sales performance, a
 * **Dataset:** Kaggle. *Sales Dataset / Retail Sales Analysis Data* (Blairlytics Company case study). Retrieved from [Kaggle](https://kaggle.com).
 * **Analytical Software:** Microsoft Corporation. *Microsoft Excel* (Pivot Tables, Power Query, and Data Visualization tools).
 * **Documentation & Formatting:** GitHub Docs. *Basic writing and formatting syntax (GitHub Flavored Markdown)*. Retrieved from [GitHub Docs](https://github.com).
+
+  😄
+  
+  |Heading1|Heading2|
+  
+  |........|........|
+  
+  |content1|content2|
+  ---
 
 
 
